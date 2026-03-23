@@ -58,7 +58,6 @@ const config = {
   }),
 
   // ... rest of the configuration.
-  output: "standalone",
 };
 
 export default withNextIntl(config);
